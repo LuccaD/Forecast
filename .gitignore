@@ -1,0 +1,26 @@
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+Saidas/
+
+# Dados locais e arquivos gerados
+Base/
+*.pkl
+comparacao_*.xlsx
+resumo_*.xlsx
+validacao_*.xlsx
+previsao_*.xlsx
+variacao_*.png
+get-pip.py
+
+# Node
+node_modules/

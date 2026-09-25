@@ -1,0 +1,7 @@
+numpy
+pandas
+openpyxl
+matplotlib
+scikit-learn
+joblib
+pyinstaller>=6.14
